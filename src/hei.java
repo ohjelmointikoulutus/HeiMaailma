@@ -18,8 +18,6 @@ public class GitEsimerkki {
         // TODO code application logic here
         System.out.println("Hei, maailma!");
         
-        System.out.println("Hei, Kajaani");
-        
     }
     
 }
